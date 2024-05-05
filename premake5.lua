@@ -1,4 +1,4 @@
-project "OpenGLRenderer"
+project "2DRenderer"
 	kind "StaticLib"
 	language "C++"
 	cppdialect "C++17"
